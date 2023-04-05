@@ -73,7 +73,7 @@ padding-right: 100px;
 #nav li a:hover { color: #fff; opacity:1;  }
 #slide1, #slide2{ width: 100%; }
 #slide1{
-	background:url('images/Ribs.jpg') 50% 0 no-repeat fixed;
+	background:url("Images/Ribs.jpg") 50% 0 no-repeat fixed;
 	color: #fff;
 	height: 600px;
 	margin: 0;
