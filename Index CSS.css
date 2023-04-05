@@ -5,9 +5,7 @@ body{
 	padding: 0;
 	width: 100%;
 }
-#BBQ_Grill{background: url("Images/BBQ Grill.png")
-	
-}
+
 a{font-family: 'Alkatra', cursive;}
 h1 { 
     font-family: 'Delicious Handrawn', cursive;
@@ -53,6 +51,7 @@ padding-right: 100px;
 	height: 80px; 
 	position: fixed;
 	margin-top: 30px;
+}
 }
 #nav { width: 410px; float: left; margin-top: 20px; }
 #logo a { color: #fff; text-decoration: none; float: left; font-size: 30px; margin-top: 20px; color: #fff; font-family:"Lobster"; font-weight: bold; }
